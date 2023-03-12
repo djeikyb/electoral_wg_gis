@@ -1,0 +1,34 @@
+[
+  {
+    "place_id": 321261630,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 436279399,
+    "boundingbox": [
+      "32.754353225666",
+      "32.754453225666",
+      "-117.10076742536",
+      "-117.10066742536"
+    ],
+    "lat": "32.754403225666294",
+    "lon": "-117.10071742535504",
+    "display_name": "4265, Fairmount Avenue, City Heights, San Diego, CAL Fire San Diego Unit, CAL Fire Southern Region, California, 92105, United States",
+    "place_rank": 30,
+    "category": "place",
+    "type": "house",
+    "importance": -0.42999999999999994,
+    "address": {
+      "house_number": "4265",
+      "road": "Fairmount Avenue",
+      "suburb": "City Heights",
+      "city": "San Diego",
+      "county": "CAL Fire San Diego Unit",
+      "state_district": "CAL Fire Southern Region",
+      "state": "California",
+      "ISO3166-2-lvl4": "US-CA",
+      "postcode": "92105",
+      "country": "United States",
+      "country_code": "us"
+    }
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "geocoding": {
+    "version": "0.1.0",
+    "attribution": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "licence": "ODbL",
+    "query": "4265 Fairmount Avenue, san diego, ca, us, 92105"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "geocoding": {
+          "place_id": 321261630,
+          "osm_type": "way",
+          "osm_id": 436279399,
+          "osm_key": "place",
+          "osm_value": "house",
+          "type": "house",
+          "label": "4265, Fairmount Avenue, City Heights, San Diego, CAL Fire San Diego Unit, CAL Fire Southern Region, California, 92105, United States",
+          "country": "United States",
+          "postcode": "92105",
+          "state": "California",
+          "county": "CAL Fire San Diego Unit",
+          "city": "San Diego",
+          "district": "City Heights",
+          "street": "Fairmount Avenue",
+          "housenumber": "4265",
+          "admin": {
+            "level4": "California",
+            "level5": "CAL Fire Southern Region",
+            "level6": "CAL Fire San Diego Unit",
+            "level8": "San Diego"
+          }
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.10071742535504,
+          32.754403225666294
+        ]
+      }
+    }
+  ]
+}
