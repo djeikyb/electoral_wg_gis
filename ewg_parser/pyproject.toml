@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "ewg-parser"
+name = "ewg_parser"
 version = "0.1.0"
 description = ""
 authors = []
