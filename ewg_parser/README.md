@@ -28,7 +28,7 @@ There's two approaches..
 We found a county website with a form intended for San Diego County voters to find their elected officials.
 It doesn't generalize beyond our chapter, but I believe has all the information our chapter cares about.
 
-### ewg_parser
+### geonom
 
 This approach would use gis information.
 We'll need to geocode addresses.
@@ -38,7 +38,10 @@ This path is a lot more complex.
 But, it generalizes beyond our own county.
 Bring your own shapes and address csv, press go, brrrrr, and you get a csv amended with precinct data.
 
-It's named quite badly, yes.
+[Nominatim][1] is software that can hold gis data and answer questions.
+Running it ourselves would be the ideal for security.
+But OpenStreetMap does have a free service we could use.
 
 
 [0]: https://python-poetry.org/docs/basic-usage/
+[1]: https://nominatim.org
