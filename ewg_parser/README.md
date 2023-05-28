@@ -31,7 +31,7 @@ It doesn't generalize beyond our chapter, but I believe has all the information 
 ### ewg_parser
 
 This approach would use gis information.
-We'll need to geocoded addresses.
+We'll need to geocode addresses.
 Then query sources of precinct information.
 
 This path is a lot more complex.
